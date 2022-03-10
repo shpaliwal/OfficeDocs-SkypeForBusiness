@@ -187,6 +187,7 @@ For more information about admin roles and how to assign a role in Microsoft 365
     
 > [!NOTE]
 > The base URL and the subdomain for the individual client have to be on the same tenant to enable you to add a _direct route_ trunk.
+> Microsoft Teams carrier nodes may not occupy the same Microsoft 365 tenant as a derived node. 
 
 ### Activate the subdomain name
 
